@@ -1,0 +1,14 @@
+C:\BegVCSharp\Chapter05\Ch05Ex03\bin\Debug\Ch05Ex03.exe.config
+C:\BegVCSharp\Chapter05\Ch05Ex03\bin\Debug\Ch05Ex03.exe
+C:\BegVCSharp\Chapter05\Ch05Ex03\bin\Debug\Ch05Ex03.pdb
+C:\BegVCSharp\Chapter05\Ch05Ex03\obj\Debug\Ch05Ex03.csprojAssemblyReference.cache
+C:\BegVCSharp\Chapter05\Ch05Ex03\obj\Debug\Ch05Ex03.csproj.CoreCompileInputs.cache
+C:\BegVCSharp\Chapter05\Ch05Ex03\obj\Debug\Ch05Ex03.exe
+C:\BegVCSharp\Chapter05\Ch05Ex03\obj\Debug\Ch05Ex03.pdb
+C:\VSRepositories\Ch05Ex01and3\bin\Debug\Ch05Ex03.exe.config
+C:\VSRepositories\Ch05Ex01and3\bin\Debug\Ch05Ex03.exe
+C:\VSRepositories\Ch05Ex01and3\bin\Debug\Ch05Ex03.pdb
+C:\VSRepositories\Ch05Ex01and3\obj\Debug\Ch05Ex03.csprojAssemblyReference.cache
+C:\VSRepositories\Ch05Ex01and3\obj\Debug\Ch05Ex03.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Ch05Ex01and3\obj\Debug\Ch05Ex03.exe
+C:\VSRepositories\Ch05Ex01and3\obj\Debug\Ch05Ex03.pdb
