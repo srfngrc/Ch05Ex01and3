@@ -50,6 +50,8 @@ namespace Ch05Ex03
             Console.ReadKey();
              */
 
+            /*Ch05Ex03
+             * 
             route myRoute;
             int myDirection = -1;
             double myDistance;
@@ -67,6 +69,20 @@ namespace Ch05Ex03
             Console.WriteLine("myRoute specifies a direction of {0} and a " +
             "distance of {1}", myRoute.direction, myRoute.distance);
             Console.ReadKey();
+            */
+
+            //Ch05Ex05
+            string myString = "This is a test.";
+            //char separator = ' ';
+            char[] separator = { ' ','i','s' };
+            string[] myWords;
+            myWords = myString.Split(separator);
+            foreach (string word in myWords)
+            {
+                Console.WriteLine("uahauhauahuahauh:  " + word);
+            }
+            
+            Console.ReadLine();
         }
     }
 }
